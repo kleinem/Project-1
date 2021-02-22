@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DartContainer
+  - Pos0
+  - Pos1
+  - Pos2
+  - Pos3
+  - Pos4
+  - Dart
+  - UIController
+  - Thrown
   layers:
   - Default
   - TransparentFX
